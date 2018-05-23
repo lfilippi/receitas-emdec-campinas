@@ -1,4 +1,4 @@
-# Receitas Emdec Campinas
+# Receitas da Emdec com multas de trânsito em Campinas de 2012 a 2018
 
 O código em Python foi escrito para análise das receitas financeiras da Emdec, empresa municipal responsável pelo trânsito de Campinas. 
 
